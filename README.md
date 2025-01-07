@@ -1,4 +1,4 @@
-## Hi👋 My name Serhii, I`m 3D Character artist, which graduated from the National Academy of Fine Art and Architecture, holding a Master degree. Use "Anotomic" as my art name. Here I try to study coding little bit or understand how does it work
+## Hi👋 My name is Serhii, I`m a 3D Character artist, who graduated from the National Academy of Fine Art and Architecture, holding a Master degree. Use "Anotomic" as my art name. Here I try to study coding a little bit or understand how it works
 
 <!--
 **Anotomic/Anotomic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
