@@ -1,4 +1,4 @@
-## Hi👋 My name Serhii Prytula,I use my Art Name "Anotomic". I`m 3D Character artist, which raduated from the National Academy of Fine Art and Architecture, holding a Master degree. Here I try to study coding little bit
+## Hi👋 My name Serhii, I`m 3D Character artist, which graduated from the National Academy of Fine Art and Architecture, holding a Master degree. Use "Anotomic" as my art name. Here I try to study coding little bit
 
 <!--
 **Anotomic/Anotomic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
